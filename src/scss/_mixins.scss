@@ -1,0 +1,7 @@
+@mixin utility($property){
+    @for $i from 0 to 5 {
+        .#{$property}-#{$i}x {
+            #{$property}: $i*0.5rem;
+        }
+    }
+}

@@ -1,0 +1,24 @@
+@include utility(padding);
+@include utility(padding-top);
+@include utility(padding-bottom);
+@include utility(padding-left);
+@include utility(padding-right);
+
+@include utility(margin);
+@include utility(margin-top);
+@include utility(margin-bottom);
+@include utility(margin-left);
+@include utility(margin-right);
+
+.block{
+    display: block;
+}
+  
+.text-left{
+    text-align: left;
+}
+
+.border{
+    border: 1px solid black !important;
+    border-radius: 2px !important;
+}

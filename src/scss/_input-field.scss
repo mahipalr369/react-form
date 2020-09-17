@@ -1,0 +1,13 @@
+.input-field {
+    margin-bottom: 1rem;
+    label {
+        margin-bottom: 0rem;
+    }
+    input{
+        width: 100%;
+    }
+    .error{
+        color: rgb(255, 0, 0);
+        padding-top: 0.25rem
+    }
+}
