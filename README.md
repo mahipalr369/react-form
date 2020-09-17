@@ -1,5 +1,7 @@
 # React Form
 
+This is basic form created using react.
+
 Use 'npm run start' to run the application locally 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
